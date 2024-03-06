@@ -26,3 +26,6 @@ ppt中介绍了￥种特征提取方法，
 
 ## notes
 1. This project was completed with November to December 2023, due to lack of time and the fact that this is only an undergraduate final course project. I would like to ask for your tolerance for any shortcomings in the project. Modifications are also welcome.
+2. The code and sample images in the file were compiled by me 5 months after the project ended, and some of the images used in the PowerPoint may not be available now. But the code and example images I have compiled can basically reproduce the process of solving the problem, and have been as detailed as possible.
+
+
